@@ -1,18 +1,39 @@
+# Hit Me Game (Java)
+
+
+Hit Me is an interactive game developed in Java where the objective is to click on the randomly appearing box within a given time limit. The game calculates your hit and miss count, and based on the hit-to-miss ratio, determines your victory.
+
+Please note that this project is still in development and may contain incomplete features.
+
+## Features
+
+- Randomly spawning boxes for clicking.
+- Time limit for each game session.
+- Hit and miss count computation.
+- Victory based on the hit-to-miss ratio.
+
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Prerequisites
 
-## Folder Structure
+To run the game, you need to have Java Development Kit (JDK) installed on your system.
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Usage
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- When the game starts, boxes will randomly appear on the screen.
+- Click on the boxes to score hits.
+- The game ends when the timer runs out.
+- Your hit and miss count will be displayed at the end.
+- Based on your hit-to-miss ratio, you will either win or lose the game.
 
-## Dependency Management
+## Contributing
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Contributions are welcome! Feel free to open an issue or submit a pull request for any improvements or bug fixes.
+
+
+
+---
+
+Feel free to update the content, add instructions, or include any specific details related to your game development process. Good luck with your game development!
